@@ -1,5 +1,5 @@
 # Career in Robotics: Perspective and Reflections
-[Twitter Thread]()
+[ [Twitter Thread](https://twitter.com/HusseinLezzaik/status/1517336691559833601) ]
 
 Almost six years ago, I started my career in robotics and to establish myself in the field, I worked really hard on building side projects & participating in hackathons, as well on both research and industrial level robotics projects. A lot has changed in my perspective since then, with lots of skills and tools learned, and assumptions unlearned.
 
@@ -13,7 +13,7 @@ Over the past year, my perspective has matured a lot on what it actually looks l
 
 `Disclaimer #2:` The field is evolving very fast, and by the time you see robots in the streets as part of your daily life, probably a lot of the content of this article will become out-dated!
 
-Table of contents:
+## Table of contents:
 - [What is a Robotics Engineer?](#what-is-a-robotics-engineer)
 - [Software Engineering](#software-engineering)
     - [Python](#python)
@@ -237,7 +237,7 @@ Robotics is a field that, in my opinion, is still in its early stages of commerc
 
 The same way algorithms, compute, and data helped deep learning improve exponentially, robots have a huge potential to follow that curve when the time is ready.
 
-Hope you enjoyed the blog and found it useful!
+Feedback appreciated!
 
 ## Acknowledgements
 Thanks to [Claudio Pacchierotti](https://team.inria.fr/rainbow/team/claudio-pacchierotti/), [Gennaro Notomista](https://www.gnotomista.com/), [Marco Cognetti](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/marco-cognetti), [Mohammed Haggag](https://www.linkedin.com/in/mnhaggag/), [Adam Issa](https://www.linkedin.com/in/adam-issa-9818ab56/), and [James Cao](https://www.linkedin.com/in/james-cao-a29520146/) for reading drafts of this.
