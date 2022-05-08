@@ -82,13 +82,13 @@ Wanna run algorithms on the edge in real time? C++ is your best friend. Lots of 
 The reason is that C++ is much faster than Python code during inference, and object oriented friendly. It’s widely used in research labs and also big tech companies in the industry like Amazon Robotics. Investing in mastering C++ will pay off in your career.
 
 ### ROS
-[ROS]() is probably one of the most special software tools that you might not hear of outside robotics. ROS is the Robot Operating System, it’s a microservices architecture built around a publish/subscribe protocol.
+[ROS](http://wiki.ros.org/) is probably one of the most special software tools that you might not hear of outside robotics. ROS is the Robot Operating System, it’s a microservices architecture built around a publish/subscribe protocol.
 
 ROS is the way you’ll program robots, read data from sensors, publish control commands to your motors, and even use in simulations to test your algorithms that are being developed. 
 
-ROS is quite silly to grasp at the beginning, but once you get a hang of it, it’s going to be one of the easiest parts of your job. Try to master this framework, you can either practice ROS in simulators like [Gazebo]() or with robot toolkits like [Jetbot]().
+ROS is quite silly to grasp at the beginning, but once you get a hang of it, it’s going to be one of the easiest parts of your job. Try to master this framework, you can either practice ROS in simulators like [Gazebo](http://gazebosim.org/) or with robot toolkits like [Jetbot](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetbot-ai-robot-kit/).
 
-Now ROS isn’t the only framework out there, but it’s the most popular and if you understand it then you can easily learn other tools when you need to. There’s other alternatives like Lightweight Communication (LCM), and you can even build your [own]() robotics operating system if you want too!
+Now ROS isn’t the only framework out there, but it’s the most popular and if you understand it then you can easily learn other tools when you need to. There’s other alternatives like Lightweight Communication (LCM), and you can even build your [own](https://autorob.org/) robotics operating system if you want too!
 
 ### Version Control
 Version control is the practice of tracking and managing changes to software code. Since SWE is a core part of developing robotics, managing different branches & versions of software from features to production is essential for robotics projects.
