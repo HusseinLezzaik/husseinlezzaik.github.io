@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "The Power of Compounding"
-excerpt: "Cities that transform the world."
+excerpt: ""
 date:   2024-02-08 08:00:00
 mathjax: false
 ---
