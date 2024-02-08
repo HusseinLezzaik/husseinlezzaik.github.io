@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "The Power of Compounding"
-excerpt: ""
+excerpt: "The real meaning of over night success."
 date:   2024-02-08 08:00:00
 mathjax: false
 ---
