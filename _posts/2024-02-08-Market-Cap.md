@@ -15,9 +15,9 @@ After absorbing this list for a while, I think it’s probably appropriate to sa
 
 Internalizing these businesses, the traditional ones like oil and gas, and the new ones that recently emerged from technology like Microsoft or Apple and why they're at close levels when it comes to market cap is very valuable. Our whole economy fundamentally is built around basic needs like food, drinks, medicine, transportation, energy, finance, etc. 
 
-Companies reflect and mirror those needs with their market caps, the higher the gap they fill the higher the volume they operate at and hence the transaction volume. Also, almost all the new (on large time scale) valuable companies have created their own new markets and made the pie much bigger.
+Companies reflect and mirror those needs with their market caps, the higher the gap they fill the higher the volume they operate at and hence the transaction volume. Almost all the new (on a large time scale) valuable companies have created their own new markets and made the pie much bigger.
 
-This observation really helped me distinguish a lot between cool tech for the passionate and side projects that would make university professors happy, and actual businesses that would make a huge ROI for investors while changing the world.
+This observation really helped me distinguish a lot between cool tech and side projects that would make university professors happy, and actual businesses that would make a huge ROI for investors while changing the world.
 
 In some parallel universe, businesses can be thought of as orange stands, with the rest implemented for efficiency. Electric cars or nuclear reactors market caps are only justifiable because of the value they create and provide for the world, and not just because they’re cool tech.
 
