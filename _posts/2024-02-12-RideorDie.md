@@ -15,4 +15,4 @@ I have first hand experience with this and I totally agree with this statement, 
 
 But what Brooks missed in this book, after reflecting on the OpenAI ouster a couple of months ago, is that talented hardworking ride or die employees can have the throughput and impact the trajectory of an organization by *O(n^3)*.
 
-Maybe cult is a better word for “ride or die”, but the general idea is that members of these kinds of teams all (genuinely) care about the mission and are willing to put the organizations interests above their own personal ones.
+Maybe cult is a better word for “ride or die”, but the general idea is that members of these kinds of teams all (genuinely) care about the mission and are willing to put the organization's interests above their own personal ones.
