@@ -82,7 +82,7 @@ Order of books doesn’t matter.
 
 32. The Five Love Languages | By Gary Chapman
 
-33.The 5am Club | By Robin Sharma
+33. The 5am Club | By Robin Sharma
 
 34. The Leader with No Title | By Robin Sharma
 
@@ -134,4 +134,6 @@ Also, I’ve spent a lot of time reading and even studying the following two blo
 
 - [Sam Altman](https://blog.samaltman.com/)
 
-I’m thinking of one day adding the stack of technical books that I enjoyed from physics to computer science, but I will leave that for another day. Hoping to keep adding to this list with time!
+I’m thinking of one day adding the stack of technical books that I enjoyed from physics to computer science, but I will leave that for another day. Hoping to keep adding to this list with time.
+
+NB: for a more thorough collection of books on startups, sci-fi, history, and books that sit on the intersection of must-read and entertaining check out my [Goodreads](https://www.goodreads.com/husseinlezzaik) account.
