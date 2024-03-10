@@ -7,6 +7,8 @@ date:   2022-12-02 08:00:00
 mathjax: false
 ---
 
+This was my master's research thesis at the [Rainbow](https://www.inria.fr/en/rainbow) team, Inria Rennes, France during the lovely covid period from 12/2020 into 08/2021.
+
 ## Introduction
 Large-scale swarms are composed of multiple agents that collaborate to accomplish a task. In the future, these systems could be deployed to, for example, provide on-demand wireless networks, perform rapid environmental mapping, search after natural disasters, or enable sensor coverage in cluttered and communications-denied environments.
 
