@@ -28,12 +28,12 @@ Although idea’s are important, founders usually need to keep iterating and piv
 
 Investors put their money where their mouth is. If they’re willing to bet on a person with big investments at such early stages, then I’d love to work for these people.
 
-Joining a startup  with exceptional founders is a great way to learn how to build a company. As [Chip Huyen](https://huyenchip.com/) says in this [blog](https://huyenchip.com/2021/02/27/why-not-join-a-startup.html#why_join_a_startup), probably the best reason to join a startup is to learn how to build on!
+Joining a startup  with exceptional founders is a great way to learn how to build a company. As [Chip Huyen](https://huyenchip.com/) says in this [blog](https://huyenchip.com/2021/02/27/why-not-join-a-startup.html#why_join_a_startup), probably the best reason to join a startup is to learn how to build one.
 
 ## 2) Product
 The product of a startup is how the founders are planning to solve the problem that inspired their mission from the beginning. Do you love the product? Do you love using it? Is it something people want? ([YC](https://www.ycombinator.com/)  motto)
 
-This is one of [Paul Graham](https://twitter.com/paulg)'s solid pieces of advice on hiring for startups, as people who love products usually will be great fits for a startup and can add so much value. I saw this tweet from [Amjad Masad](https://twitter.com/amasad), founder of [Replit](https://replit.com/~), the other day, and it’s so crazy how much it works!
+This is one of [Paul Graham](https://twitter.com/paulg)'s solid pieces of advice on hiring for startups, as people who love products usually will be great fits for a startup and can add so much value. I saw this tweet from [Amjad Masad](https://twitter.com/amasad) founder of [Replit](https://replit.com/~) the other day, and it’s so crazy how much it works!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you think you understand how prescient <a href="https://twitter.com/paulg?ref_src=twsrc%5Etfw">@paulg</a> can be, multiply that by 10 <a href="https://t.co/QbL53alrqV">https://t.co/QbL53alrqV</a> <a href="https://t.co/AOhGntMFWE">pic.twitter.com/AOhGntMFWE</a></p>&mdash; Amjad Masad ⠕ (@amasad) <a href="https://twitter.com/amasad/status/1583613496926736384?ref_src=twsrc%5Etfw">October 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
