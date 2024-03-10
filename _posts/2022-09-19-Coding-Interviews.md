@@ -13,7 +13,7 @@ Recently, I have been reflecting on my experience with coding interviews, thinki
 
 I’ve been fortunate throughout my career to land 100+ interviews at big tech companies, startups, AI labs, and also chat with lots of interesting people about how they got to where they are and what worked for them. 
 
-I am in no way an expert on this subject, and there are still parts of the process that puzzle me. For example, recently I interviewed with a popular big tech company in California for a Machine Learning Infrastructure team, and went through 6 rounds (3 coding, 2 system, and 1 cultural) meeting all the senior engineers that work in the team - yet didn’t get an offer?!
+I am in no way an expert on this subject, and there are still parts of the process that puzzle me. For example, recently I interviewed with a popular big tech company in San Francisco California for a Machine Learning Infrastructure team, and went through 6 rounds (3 coding, 2 system, and 1 cultural) meeting all the senior engineers that work in the team - yet didn’t get an offer?!
 
 In this blog post, I am going to summarize the things that I found worked for me, or things that I learned from my network that I also think would be useful to share. This is a list of 20 lessons I acquired over the process, hope you find them useful. Feedback is always appreciated!
 
