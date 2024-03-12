@@ -119,4 +119,4 @@ The list:
 
 Whether you're just starting out in your career or you're looking to take the next step, I hope this list of books will inspire you to continue learning and growing!
 
-Feel free to ping me if you’re interested in chatting about these books!
+NB: for a more thorough collection of books on startups, sci-fi, history, and books that sit on the intersection of must-read and entertaining check out my [Goodreads](https://www.goodreads.com/husseinlezzaik) account.
