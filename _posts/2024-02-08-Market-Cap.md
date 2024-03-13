@@ -7,7 +7,7 @@ date:   2024-02-08 08:00:00
 mathjax: false
 ---
 
-I spent a full week of January staring at the [top 200 companies by market cap](https://companiesmarketcap.com/), and I have to say my business outlook has become much clearer. Consuming only Silicon Valley content is like teaching someone about a few of all the amazing colors, it's great to learn about them but to understand them better you definitely want to contrast them with the other existing ones.
+I spent a full week of January staring at the [largest companies by market cap](https://companiesmarketcap.com/), and I have to say my business outlook has become much clearer. Consuming only Silicon Valley content is like teaching someone about a few of all the amazing colors, it's great to learn about them but to understand them better you definitely want to contrast them with the other existing ones.
 
 You’d be surprised (at least I was) by how many companies you’ve barely heard of that have huge volumes of traction or companies that you know but didn’t anticipate the scale of which they operate at.
 
