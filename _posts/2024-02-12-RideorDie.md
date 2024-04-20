@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Beyond The Mythical Man Month: Ride or Die Employees O(n^3)"
+title: "Beyond The Mythical Man Month: Ride or Die Teams O(n^3)"
 excerpt: ""
 date:   2024-02-12 08:00:00
 mathjax: false
