@@ -21,7 +21,7 @@ As you continue to follow your curiosity and double down on your ideas, the piec
 
 Going deep on projects and working on ambitious ideas, a real ray of hope that your work will one day touch everyones life emerges. 
 
-The most important thing you can do in this interim phase is to believe [^1], and relentlessly push as hard as you can on your convictions.
+The most important thing you can do in this interim phase is to believe[^1], and relentlessly push as hard as you can on your convictions.
 
 The people we look up to were one day in our same exact shoes, and that fact is energizing.
 
