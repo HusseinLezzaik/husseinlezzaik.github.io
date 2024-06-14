@@ -5,9 +5,9 @@ permalink: /about/
 includelink: true
 ---
 
-I work as lead software developer at [IBS Software](https://www.ibsplc.com/) on the Core team reporting to Chief Software Architect directly; building distributed systems, infrastructure, and platforms for crew scheduling [solvers](https://en.wikipedia.org/wiki/Operations_research) for airlines.
+I work as lead software developer at [IBS Software](https://www.ibsplc.com/) on the Core team reporting to Chief Software Architect; building distributed systems, infrastructure, and platforms for crew scheduling [solvers](https://en.wikipedia.org/wiki/Operations_research) for airlines.
 
-During nights and weekends, I'm a machine learning developer/researcher doing research on AGI at [xresearch.ai](http://xresearch.ai/).
+During nights and weekends, I'm a machine learning researcher doing research on AGI at [xresearch.ai](http://xresearch.ai/).
 
 Previously, I've led the autonomous system navigation development at a robotics startup, and done fair amount of ML research during my undergrad and masters.
 
