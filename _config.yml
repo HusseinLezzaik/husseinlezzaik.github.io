@@ -1,0 +1,17 @@
+# Site settings
+title: Hussein Lezzaik blog
+email: 
+description: "In pursuit of curious AGIs."
+baseurl: ""
+url: "http://husseinlezzaik.github.io"
+github_username:  HusseinLezzaik
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
