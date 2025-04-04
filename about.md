@@ -14,3 +14,5 @@ I got excited about neural networks in 2019 during an undergrad research intersh
 I love solving deep technical problems 🧠🤖💥, and building things that make our world a better place.
 
 Also, I like to [read](https://www.goodreads.com/husseinlezzaik) and [travel](https://www.youtube.com/@HusseinLezzaik/shorts) :)
+
+In my free time, I'm working on solving the hardest problems in humanoids locomotion and intelligence at [xresearch.ai](https://xresearch.ai/).

@@ -1,7 +1,7 @@
 # Site settings
 title: Hussein Lezzaik blog
 email: 
-description: "In pursuit of curious AGIs."
+description: "Musings of a Roboticist."
 baseurl: ""
 url: "http://husseinlezzaik.github.io"
 github_username:  HusseinLezzaik
