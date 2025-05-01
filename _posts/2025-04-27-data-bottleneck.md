@@ -33,7 +33,7 @@ Embodied AI is best defined as an AI agent that can make observations and take a
 One of the early works of embodied AI in the physical world was imitation learning from the "[End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)" project at Nvidia where they did supervised learning on human "expert" data to learn how to steer the wheel based on vision:
 
 <figure>
-<img src="/assets/past/il.jpg" width="100%" />
+<img src="/assets/past/il.JPG" width="100%" />
   <figcaption style="text-align: center; font-size: small; color: gray;">
     Figure 2: Imitation Learning for Steering Wheel
   </figcaption>
@@ -44,7 +44,7 @@ This is basically the approach that Tesla has taken to build it's autopilot FSD,
 Imitation learning works really well for driving, as well as for computer control agents like [Ace](https://x.com/sherjilozair/status/1913731862859850122):
 
 <figure>
-<img src="/assets/past/general-agent.jpg" width="100%" />
+<img src="/assets/past/general-agent.JPG" width="100%" />
   <figcaption style="text-align: center; font-size: small; color: gray;">
     Figure 3: Tweet from Sherjil Ozair, founder of General Agents about Ace
   </figcaption>
@@ -73,7 +73,7 @@ So not only is it very expensive and challenging to collect a diverse action dat
 Also, behaviour cloning applied to the physical world hit saturation pretty quickly i.e. [more demonstrations doesn't mean better performance](https://residual-assembly.github.io/):
 
 <figure>
-<img src="/assets/past/saturation.jpg" width="100%" />
+<img src="/assets/past/saturation.JPG" width="100%" />
   <figcaption style="text-align: center; font-size: small; color: gray;">
     Figure 4: Example of Imitation learning performance saturating with more data 
   </figcaption>
@@ -114,7 +114,9 @@ While the data bottleneck represents a significant challenge to build a general 
 Let's take a step back and think about what training an AI model really is by reviewing this quote from the excellent blog "[The "it" in AI models is the dataset](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)" by James Betker:
 
 ```
-Model behavior is not determined by architecture, hyperparameters, or optimizer choices. It’s determined by your dataset, nothing else. Everything else is a means to an end in efficiently delivery compute to approximating that dataset.
+Model behavior is not determined by architecture, hyperparameters, or optimizer choices. 
+It’s determined by your dataset, nothing else. Everything else is a means to an end
+in efficiently delivery compute to approximating that dataset.
 ```
 
 We have something going for us is that Vision-Language-Actions (VLAs) models like GROOT or OpenVLA are using a VLM backbone that's already pre-trained on the internet. 
@@ -122,7 +124,9 @@ We have something going for us is that Vision-Language-Actions (VLAs) models lik
 As Ilya Sutskever once said in an [interview](https://lifearchitect.ai/ilya/) with Jensen about how LLMs are able to learn physical concepts from text:
 
 ```
-Even though a text-only neural network has never seen a photon, it can still learn that "red is more similar to orange than to blue" or "blue is more similar to purple than to yellow."
+Even though a text-only neural network has never seen a photon, it can still
+learn that "red is more similar to orange than to blue" or "blue is more similar
+to purple than to yellow."
 ```
 
 He attributed this to the fact that information about the world, including visual concepts, "slowly leaks in through text". Thought not as efficiently as through direct sensory experience, but with enough text, a lot can still be learned!
@@ -134,7 +138,7 @@ With both of these ideas in mind, it might be the case that we're a lot closer t
 I think the first production scale example of this is the [DYNA-1](https://www.dyna.co/research) model from Dyna that have trained a reward model that is used to give feedback to their manipulation policy:
 
 <figure>
-<img src="/assets/past/dyna.jpg" width="100%" />
+<img src="/assets/past/dyna.JPG" width="100%" />
   <figcaption style="text-align: center; font-size: small; color: gray;">
     Figure 6: “Don’t practice until you get it right. Practice until you can’t get it wrong.”
   </figcaption>
@@ -143,7 +147,8 @@ I think the first production scale example of this is the [DYNA-1](https://www.d
 Reward models might be the most general on-policy RL approach to teach robot foundation models how to generalize to the real world and learn from mistakes quickly.
 
 ```
-Hypothesis: if we can train a generalized reward model to do RL training for dexterity, can we do the same for bipedal walking? 
+Hypothesis: if we can train a generalized reward model to do RL training for 
+dexterity, can we do the same for bipedal walking? 
 
 If so, can we train a superset reward model for all human actions?
 ```
