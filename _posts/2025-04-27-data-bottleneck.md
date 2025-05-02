@@ -129,7 +129,7 @@ learn that "red is more similar to orange than to blue" or "blue is more similar
 to purple than to yellow."
 ```
 
-He attributed this to the fact that information about the world, including visual concepts, "slowly leaks in through text". Thought not as efficiently as through direct sensory experience, but with enough text, a lot can still be learned!
+He attributed this to the fact that information about the world, including visual concepts, "slowly leaks in through text". Though not as efficiently as through direct sensory experience, but with enough text, a lot can still be learned!
 
 With both of these ideas in mind, it might be the case that we're a lot closer to solving physical intelligence than we might realize and that an effective general reward model for the physical world plus sample demonstrations might be sufficient to build a general purpose robot model.
 
@@ -166,4 +166,4 @@ So far there's a lot of convergence in terms of the training recipes from LLMs t
 #### Notes
 
 [^1]: https://syncedreview.com/2019/02/22/yann-lecun-cake-analogy-2-0/
-[^2]: For the scope of this blog we'll focus on embodied AI in the physical world, but if you're interested in digital embodiment checkout the [VideoGame Bench](https://www.vgbench.com/)
+[^2]: for the scope of this blog we'll focus on embodied AI in the physical world, but if you're interested in digital embodiment checkout the [VideoGame Bench](https://www.vgbench.com/)
