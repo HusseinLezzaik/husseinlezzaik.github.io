@@ -52,7 +52,7 @@ We've also seen [evidence](https://youtu.be/mXFH7xs_k_I?t=716) of transfer learn
 Incorporating chain of thoughts and reasoning into the VLA models helps the models with planning actions and tasks which is essential for a general purpose robot, as demonstrated with [π-0.5](https://www.pi.website/blog/pi05) or [HiRobot](https://www.pi.website/research/hirobot) from Physical Intelligence:
 
 <figure>
-<img src="/assets/past/hirobot-eval.jpg" width="100%" />
+<img src="/assets/past/hirobot-eval.JPG" width="100%" />
   <figcaption style="text-align: center; font-size: small; color: gray;">
     Figure 2: HiRobot performance with reasoning compared to vanilla VLA
   </figcaption>
@@ -86,7 +86,7 @@ Some metrics or things to think about when designing robotic benchmarks:
 - long horizon dexterity like preparing a salad
 - embodied reasoning benchmark from google (trajectory, action, spatial)
 - cross embodiment performance
-- constitutions for safety like the [Asimov ](https://asimov-benchmark.github.io/)benchmark from google
+- constitutions for safety like the [Asimov](https://asimov-benchmark.github.io/)benchmark from google
 - distribution of tasks, difficulties, lighting conditions, and so on
 - how fast can it adapt to learn new things
 
@@ -146,7 +146,7 @@ In robotics, unlike LLMs a lot of our code is deployed into the physical world. 
 
 Robotics on the other hand, has far less well constructed datasets, and hardware is far more diverse. However there have been some interesting work recently published that can help unify the efforts of robotics researchers and engineers around the world to use as baselines and compare results much easily.
 
-Some examples of this is the [Ruka Hand](https://ruka-hand.github.io/) or [LeRobot](https://github.com/huggingface/lerobot) from Hugging Face. In the field of humanoids, UniTree seems to be the most open source high quality platform in terms of both their hardware and software, open sourcing [manipulation datasets ](https://huggingface.co/unitreerobotics) and becoming a defacto go to at the top robotics labs in order to do robotics research.
+Some examples of this is the [Ruka Hand](https://ruka-hand.github.io/) or [LeRobot](https://github.com/huggingface/lerobot) from Hugging Face. In the field of humanoids, UniTree seems to be the most open source high quality platform in terms of both their hardware and software, open sourcing [manipulation datasets](https://huggingface.co/unitreerobotics) and becoming a defacto go to at the top robotics labs in order to do robotics research.
 
 Other important efforts like this are the [Mobile ALOHA](https://mobile-aloha.github.io/) or [Fourier ActionNet Dataset](https://action-net.org/#) which are very useful for the entire research community to improve training the next OpenVLA.
 
@@ -164,16 +164,16 @@ Finally, as robots get deployed more into the real world and become part of our 
 
 Disney research for example has done some [impressive](https://spectrum.ieee.org/disney-robot) research work on integrating fun emotions, expressions, and feelings into human-robot interaction. They collect demonstration's and reward models via RL to walk in a cute funny way. Also, [tools](https://bostondynamics.com/blog/in-step-with-spot/) from Boston Dynamics around robot aesthetics, or Universal Studios [putting](https://x.com/venturetwins/status/1909378018503729552) dragon costumes on Boston Dynamics quadruped robots make them much more fun to interact with.
 
-1X afaik might be the first robotic company to explicitly hire for a [robot character engineer](https://www.1x.tech/open-positions/research-engineer-robot-character) in fact! 
+1X afaik might be the first robotic company to explicitly hire for a [robot character engineer](https://www.1x.tech/open-positions/research-engineer-robot-character) in fact!
 
 Some open problems listed on their job opening:
+
 - How would you extend a realtime audio conversation agent to do co-speech gesture generation?
 - Motions for nonverbal communication (e.g. emoting) are usually treated separately from task completion behaviour (e.g. folding laundry). How would you merge the two together?
 
 ## Conclusion
 
 While this is not a complete list of all trends around robot foundation models research, I hope that they inspire researchers and engineers to think about ways to leverage progress in LLMs as well as direct their research towards generalization instead of beating narrow task benchmarks.
-
 
 
 <br>
