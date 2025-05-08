@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-04-30-robot-foundation-models.md",
+                "file": "_posts/2025-05-01-bipedal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-30-robot-foundation-models"
+              "title": "2025-05-01-bipedal"
             }
           }
         ]
@@ -171,20 +171,21 @@
   },
   "active": "967062832248a7c7",
   "lastOpenFiles": [
-    "assets/past/hirobot-eval.JPG",
+    "assets/past/reward_mean.png",
+    "assets/past/episode_length.png",
+    "_posts/2025-05-01-bipedal.md",
+    "assets/past/g1unitree.JPG",
+    "assets/past/uisaac.png",
+    "assets/past/gait.png",
+    "assets/past/pendulum.png",
     "_posts/2025-04-30-robot-foundation-models.md",
+    "_posts/2025-04-24-pi0.5 copy.md",
+    "assets/past/hirobot-eval.JPG",
     "assets/past/sentiment-neuron.png",
     "assets/past/gemini-robotics.png",
     "gemini-robotics.png",
     "gemini-ezgif.com-webp-to-png-converter.png",
     "_posts/2025-04-27-data-bottleneck.md",
-    "assets/past/1x-learning.png",
-    "assets/past/dyna.JPG",
-    "assets/past/saturation.JPG",
-    "assets/past/general-agent.JPG",
-    "assets/past/il.JPG",
-    "assets/past/wob.png",
-    "_posts/2025-04-24-pi0.5.md",
-    "_posts/2025-04-24-pi0.5 copy.md"
+    "_posts/2025-04-24-pi0.5.md"
   ]
 }
