@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: The Art of Training Frontier Models
+title: "Frontier AI Research: The Real Moat"
 excerpt: ""
 date: 2025-05-24 00:00:00
 mathjax: false
@@ -32,5 +32,6 @@ Not only is top tier AI research able to convert the impossible to reality, it a
 
 Therefore, I will make the following claim about the winners of the AI technological wave: 
 ```
-The greatest AI products will necessarily be built on top of frontier AI research breakthroughs.
+The greatest AI products will necessarily be built on top of frontier 
+AI research breakthroughs.
 ```
