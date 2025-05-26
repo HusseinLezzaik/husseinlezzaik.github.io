@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a28fcbd4c50163a",
+        "id": "ae7a5ccd85c72c29",
         "type": "tabs",
         "children": [
           {
-            "id": "967062832248a7c7",
+            "id": "b7358ce560a03db6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-05-01-bipedal.md",
+                "file": "_posts/2025-05-24-ai-frontier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-01-bipedal"
+              "title": "2025-05-24-ai-frontier"
             }
           }
         ]
@@ -169,11 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "967062832248a7c7",
+  "active": "b7358ce560a03db6",
   "lastOpenFiles": [
+    "_posts/2025-05-24-ai-frontier.md",
+    "_posts/2025-05-01-bipedal.md",
+    "_posts/2025-05-17-embodied.md",
+    "assets/past/waves.png",
     "assets/past/reward_mean.png",
     "assets/past/episode_length.png",
-    "_posts/2025-05-01-bipedal.md",
     "assets/past/g1unitree.JPG",
     "assets/past/uisaac.png",
     "assets/past/gait.png",
@@ -183,8 +186,6 @@
     "assets/past/hirobot-eval.JPG",
     "assets/past/sentiment-neuron.png",
     "assets/past/gemini-robotics.png",
-    "gemini-robotics.png",
-    "gemini-ezgif.com-webp-to-png-converter.png",
     "_posts/2025-04-27-data-bottleneck.md",
     "_posts/2025-04-24-pi0.5.md"
   ]
